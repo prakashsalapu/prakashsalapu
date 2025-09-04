@@ -1,63 +1,41 @@
-<!-- Hi, I’m Bhanu Prakash Salapu 👋 -->
+# 👋 Hi, I'm Bhanu Prakash Salapu  
 
-<h1 align="center">Hi 👋, I'm Bhanu Prakash Salapu</h1>
-<h3 align="center">🚀 Frontend Developer | 🎨 Creative Designer | 📸 Aspiring YouTuber</h3>
-
----
-
-### 👨‍💻 About Me  
-- 🔭 Currently mastering **Frontend Development (React, JS, CSS, Tailwind)**  
-- 🎯 2025 Goal: **Start YouTube journey + Build my own digital agency**  
-- ⚡ Fun Fact: I mix **Technology + Creativity** (Coding + Photoshop + Video Editing)  
+### 🚀 Aspiring Cloud/DevOps Engineer | AWS | MERN | Creative Designer  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+## 📖 About Me  
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-- 🎨 **Thumbnail Design Showcase** – *Creative designs built in Photoshop*  
-
-➡️ *Check my pinned repos below ⬇️*  
+🎓 B.Tech 3rd Year Student in **Information Technology**  
+💡 Currently learning **DevOps (Zero to Hero)**  
+🔨 Passionate about **building projects**, doing internships, and creating content  
+🎯 Goal: To grow as a **Cloud/DevOps Engineer** while showcasing my journey through projects & learning  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical" alt="streak" height="160"/>
-</p>
+## 🛠 Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical" alt="top langs" height="160"/>
-</p>
+### 💻 Programming & Development  
+- Java ☕ | Python 🐍 | JavaScript ⚡  
+- HTML 🌐 | CSS 🎨 | Bootstrap 🎯  
 
----
-
-### 🌱 Current Focus
-- 📖 Learning **Frontend (React, JavaScript)** 
-- 🎥 Preparing for **YouTube content creation**  
-- 💼 Freelancing in **Photo Retouching & Youtube Thumbnail Designing**  
+### 🧰 Tools & Platforms  
+- Git & GitHub 🐙  
+- VS Code 💻  
+- Photoshop 🎨 | Premiere Pro 🎬  
 
 ---
 
-### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamprakashfx/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-link)
+## 📬 Connect With Me  
+
+- 🌐 Portfolio: [prakash-portfolio](https://iamprakashfx.vercel.app/)  
+- 💼 LinkedIn: [Bhanu Prakash Salapu](https://www.linkedin.com/in/prakashsalapu/)  
+- 📧 Email: bhanuprakash8305@gmail.com  
+- 📸 Instagram: [@iamprakashfx](https://www.instagram.com/iamprakashfx/)  
 
 ---
 
-⭐ *“Code like an Engineer, Create like an Artist, Live like a Visionary.”*
+## 🤝 Let’s Collaborate  
+
+If you’re looking for a **Cloud/DevOps enthusiast** who’s also into **web development & creative design**,  
+👉 **Connect with me, explore my portfolio, or hire me for your next project!**  
