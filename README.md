@@ -6,7 +6,7 @@
 </p>
 
 
-## 🙋 About Me
+### 🙋 About Me
 
 - 🌱 &nbsp;Just started my journey into **Java** and **Data Structures & Algorithms**
 - 🎯 &nbsp;Goal: Become a **Java Backend Developer** | one commit at a time
@@ -15,7 +15,7 @@
 
 
 
-## 🛠️ Tools I'm Using
+### 🛠️ Tools I'm Using
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
@@ -24,8 +24,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-
-## 💭 Why I'm Doing This
 
 I spent time exploring DevOps, MERN, and design - and I learned a lot.
 But I want to go deep, not wide. Java backend and DSA is where I'm putting all my focus now.
