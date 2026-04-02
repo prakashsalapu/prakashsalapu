@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Bhanu Prakash Salapu</h1>
 
 <p align="center">
-  <b>☕ Java Backend Developer &nbsp;|&nbsp; DSA Enthusiast &nbsp;|&nbsp; Spring Boot</b><br/>
-  <sub>B.Tech IT — 3rd Year &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; Building in public</sub>
+  <b>☕ Learning Java Backend Development &nbsp;|&nbsp; DSA from Zero</b><br/>
+  <sub>B.Tech IT — 3rd Year &nbsp;·&nbsp; Visakhapatnam, India</sub>
 </p>
 
 <p align="center">
@@ -22,84 +22,62 @@
 
 ---
 
-## 🎯 About Me
+## 🙋 About Me
 
-- 🔭 &nbsp;Currently mastering **Java Backend Development** and **Data Structures & Algorithms**
-- 🌱 &nbsp;Learning **Spring Boot**, **Hibernate/JPA**, and **REST API design**
-- 💡 &nbsp;Solving DSA problems daily on **LeetCode** and **GFG** — consistency over intensity
-- 🏗️ &nbsp;Goal: Land a **Java Backend Developer** role by building real, production-style projects
-- 📖 &nbsp;Everything I learn gets committed — this profile is my public learning journal
+- 🌱 &nbsp;Just started my journey into **Java** and **Data Structures & Algorithms**
+- 🎯 &nbsp;Goal: Become a **Java Backend Developer** — one commit at a time
+- 📅 &nbsp;Started: **April 2026** — documenting everything publicly
+- 💬 &nbsp;Still a beginner, but I show up every day
+- 📍 &nbsp;Visakhapatnam, India &nbsp;·&nbsp; Open to connect with fellow learners
 
 ---
 
-## 🛠️ Tech Stack
+## 🗺️ My Roadmap
 
-### Languages & Core
+This is the path I'm following. I'll update this as I progress.
+
+```
+Phase 1 — Java Basics          ← I am here
+  ✅ Setup (JDK, IntelliJ)
+  🔄 Variables, Data Types, Operators
+  🔜 Control Flow, Loops, Methods
+  🔜 OOP — Classes, Objects, Inheritance
+  🔜 Collections, Exceptions, File I/O
+
+Phase 2 — DSA in Java
+  🔜 Arrays & Strings
+  🔜 Linked List, Stack, Queue
+  🔜 Recursion, Sorting, Searching
+  🔜 Trees, Graphs
+  🔜 Dynamic Programming
+
+Phase 3 — Backend Development
+  🔜 Core Java deep dive (Threads, Streams)
+  🔜 SQL & MySQL basics
+  🔜 Spring Boot & REST APIs
+  🔜 Build real projects
+```
+
+---
+
+## 🛠️ Tools I'm Using
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-00599C?style=flat&logo=h2&logoColor=white)
-
-### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📌 Current Focus
+## 📂 Repos to Watch
 
-```
-📂 dsa-java              → Daily LeetCode & GFG solutions, organized by topic
-📂 spring-boot-projects  → REST APIs built with Spring Boot (Bookstore, URL Shortener...)
-📂 java-core-concepts    → OOP · Collections · Multithreading · Streams · SOLID
-```
+> These are works in progress. Growing every day.
 
----
-
-## 🧩 DSA Progress Tracker
-
-> Solving problems topic by topic. Every solution includes time & space complexity notes.
-
-| Topic | Status | Problems Solved |
+| Repo | What's Inside | Status |
 |---|---|---|
-| Arrays | ✅ Done | 25+ |
-| Strings | ✅ Done | 20+ |
-| Linked List | 🔄 In Progress | 10+ |
-| Stack & Queue | 🔄 In Progress | 8+ |
-| Recursion | 🔜 Next | — |
-| Trees (BT & BST) | 🔜 Next | — |
-| Graphs | 🔜 Upcoming | — |
-| Dynamic Programming | 🔜 Upcoming | — |
-| Heaps & Tries | 🔜 Upcoming | — |
-
----
-
-## 🏗️ Projects
-
-### 🔖 Bookstore REST API &nbsp; `Spring Boot` `MySQL` `Hibernate`
-> A full CRUD REST API for managing books and authors.
-> Features: JPA relationships, validation, pagination, Postman-tested endpoints.
-> [View Repo →](https://github.com/prakashsalapu/spring-boot-projects)
-
-### ☕ Java Core Concepts &nbsp; `Java` `OOP` `Collections` `Multithreading`
-> Structured code + notes covering Java fundamentals from scratch.
-> Each concept has a working example and explanation in comments.
-> [View Repo →](https://github.com/prakashsalapu/java-core-concepts)
-
-### 🧩 DSA — Java Solutions &nbsp; `Java` `LeetCode` `GFG`
-> Topic-wise organized DSA solutions. Every file has approach explanation + complexity.
-> [View Repo →](https://github.com/prakashsalapu/dsa-java)
+| [dsa-java](https://github.com/prakashsalapu/dsa-java) | DSA problems solved in Java | 🔄 Just started |
+| [java-basics](https://github.com/prakashsalapu/java-basics) | Core Java practice code | 🔄 Just started |
 
 ---
 
@@ -108,24 +86,20 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashsalapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsalapu&layout=compact&theme=github_dark&hide_border=true&langs_count=5"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsalapu&theme=github-dark-blue&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsalapu&layout=compact&theme=github_dark&hide_border=true&langs_count=4"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 💭 Why I'm Doing This
 
-I'm always open to:
-- 💬 &nbsp;Discussing **Java, DSA, or backend architecture**
-- 🔗 &nbsp;Connecting with fellow developers on the same grind
-- 🚀 &nbsp;Collaborating on **Java backend or open source** projects
+I spent time exploring DevOps, MERN, and design — and I learned a lot.
+But I want to go deep, not wide. Java backend and DSA is where I'm putting all my focus now.
 
-> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+This profile is my honest, public record of that journey — from day one.
+
+---
 
 <p align="center">
-  <i>If you find my work useful, drop a ⭐ on a repo — it genuinely keeps me going!</i>
+  <sub>⭐ Follow along if you're on a similar path. We grow faster together.</sub>
 </p>
