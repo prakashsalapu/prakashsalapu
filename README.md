@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>☕ Learning Java Backend Development &nbsp;|&nbsp; DSA from Zero</b><br/>
-  <sub>B.Tech IT &nbsp;·&nbsp; 3rd Year  Visakhapatnam</sub>
+  <sub>B.Tech IT &nbsp;·&nbsp; 3rd Year &nbsp;·&nbsp; Visakhapatnam</sub>
 </p>
 
 
@@ -11,6 +11,8 @@
 - 🌱 &nbsp;Just started my journey into **Java** and **Data Structures & Algorithms**
 - 🎯 &nbsp;Goal: Become a **Java Backend Developer** | one commit at a time
 - 💬 &nbsp;Still a beginner, but I show up every day
+
+
 
 
 ## 🛠️ Tools I'm Using
