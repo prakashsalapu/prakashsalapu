@@ -23,7 +23,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
+ 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashsalapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsalapu&layout=compact&theme=github_dark&hide_border=true&langs_count=4"/>
+</p>
+ 
+---
 
 I spent time exploring DevOps, MERN, and design - and I learned a lot.
 But I want to go deep, not wide. Java backend and DSA is where I'm putting all my focus now.
