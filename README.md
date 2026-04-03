@@ -28,7 +28,7 @@
 I spent time exploring DevOps, MERN, and Graphic Design  and I learned a lot.
 But I want to go deep, not wide. Java backend and DSA is where I'm putting all my focus now.
 
-This profile is my honest, public record of that journey - from day one.
+This profile is my honest, public record of that journey, from day one.
 
 
 <p align="center">
