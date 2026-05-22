@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Bhanu Prakash Salapu</h1>
 
 <p align="center">
-  <b>☕ Learning Java Backend Development &nbsp;|&nbsp; DSA from Zero</b><br/>
+  <b>Full Stack Web Developer &nbsp;|&nbsp; DSA from Zero</b><br/>
   <sub>B.Tech IT &nbsp;·&nbsp; 3rd Year &nbsp;·&nbsp; Visakhapatnam</sub>
 </p>
 
@@ -9,10 +9,7 @@
 ### 🙋 About Me
 
 - 🌱 &nbsp;Just started my journey into **Java** and **Data Structures & Algorithms**
-- 🎯 &nbsp;Goal: Become a **Java Backend Developer** | one commit at a time
 - 💬 &nbsp;Still a beginner, but I show up every day
-
-
 
 
 ### 🛠️ Tools I'm Using
@@ -24,9 +21,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
  
-
-I spent time exploring DevOps, MERN, and Graphic Design  and I learned a lot.
-But I want to go deep, not wide. Java backend and DSA is where I'm putting all my focus now.
 
 This profile is my honest, public record of that journey, from day one.
 
