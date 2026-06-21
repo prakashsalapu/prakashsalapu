@@ -101,14 +101,5 @@ fun_fact: Also a creative -> Graphic Designer & Video Editor
 </td>
 </tr>
 </table>
-<br/><br/>
-
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
