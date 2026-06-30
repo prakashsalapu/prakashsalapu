@@ -80,26 +80,5 @@ fun_fact: Also a creative -> Graphic Designer & Video Editor
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </div>
-<br/>
 
-
-<br/>
-
-## 📈 GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakashsalapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00C9A7&text_color=c9d1d9&border_color=8B5CF6&card_width=440" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsalapu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00C9A7&currStreakLabel=00C9A7&card_width=440" width="70%"/>
-
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsalapu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&border_color=8B5CF6&card_width=440&langs_count=8" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
 
